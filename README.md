@@ -1,6 +1,6 @@
 ## 👋 Hey there, I'm Fritz!~
 
-🎓 BSIT Student | 💻 C++ Coder | 🎮 Gamer | 🇵🇭 Based in the Philippines  
+🎓 BSIT Student | 💻 C++ / HTML5 Coder | 🎮 Gamer | 🇵🇭 Based in the Philippines  
 Welcome to my GitHub space where I build, break, and learn cool things through code. 
 
 
